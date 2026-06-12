@@ -264,7 +264,7 @@ Program ini digunakan untuk mendeteksi wajah pada file gambar yang telah disimpa
 
 ## 📸 Hasil Deteksi Gambar
 
-![Hasil Deteksi Foto](assets/04_hasil_deteksi_foto.png)
+![Hasil Deteksi Foto](https://github.com/NadhiaShafira/P.citra_prak14/blob/5148801c0b7dfec57dac51aefb767b7c809927a1/assets/04_hasil_deteksi_foto.png)
 
 ---
 
