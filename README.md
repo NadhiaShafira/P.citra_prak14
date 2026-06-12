@@ -101,7 +101,7 @@ face-detection-haar
 
 Pada tahap awal dilakukan pembuatan struktur folder project, instalasi library yang dibutuhkan, serta penambahan file Haar Cascade sebagai classifier untuk mendeteksi wajah.
 
-![Persiapan Project](assets/01_setup_project.png)
+![Persiapan Project](https://github.com/NadhiaShafira/P.citra_prak14/blob/3036110c22fafa92c975168d4a34453555d5f518/assets/01_setup_project.png.png)
 
 ---
 
