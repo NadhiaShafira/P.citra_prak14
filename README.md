@@ -211,7 +211,7 @@ Menampilkan hasil deteksi secara real-time.
 
 ## 📸 Hasil Deteksi Wajah Realtime
 
-![Deteksi Wajah Realtime](assets/02_deteksi_wajah_realtime.png)
+![Deteksi Wajah Realtime](https://github.com/NadhiaShafira/P.citra_prak14/blob/4eaf318bc985d5d11df5eeed040a624b00190984/assets/02_deteksi_wajah_realtime.png)
 
 ### ✅ Analisis Hasil
 
