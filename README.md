@@ -226,7 +226,7 @@ Menampilkan hasil deteksi secara real-time.
 
 ## 📸 Hasil Program
 
-![Jumlah Wajah](assets/03_jumlah_wajah.png)
+![Jumlah Wajah](https://github.com/NadhiaShafira/P.citra_prak14/blob/bdbc4a8967b96d198d7c22c7b2e65267511a9511/assets/03_jumlah_wajah.png)
 
 ---
 
